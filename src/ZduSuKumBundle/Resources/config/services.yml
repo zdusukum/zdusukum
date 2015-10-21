@@ -1,0 +1,4 @@
+services:
+#    zdu_su_kum.example:
+#        class: ZduSuKumBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

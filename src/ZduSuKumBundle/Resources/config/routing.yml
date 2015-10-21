@@ -1,0 +1,3 @@
+zdu_su_kum_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ZduSuKumBundle:Default:index }

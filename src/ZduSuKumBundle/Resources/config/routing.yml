@@ -1,3 +1,7 @@
 zdu_su_kum_homepage:
     path:     /
     defaults: { _controller: ZduSuKumBundle:Default:index }
+    
+default:
+    path:      /{controller}/{action}
+    defaults:  { _controller: ZduSuKumBundle:controller:action }
